@@ -99,7 +99,7 @@ createRoot(document.getElementById("root")!).render(
     <span className="w-full pt-4 text-center">Made with ❤️ by Frytura to his friends.</span>
     <a
     className="w-12 h-12 transition-all hover:scale-[1.15] hover:translate-y-[3px] hover:-translate-x-[4px] rounded-full rounded-tr-none bg-black dark:bg-white dark:fill-black fill-white flex items-center justify-center"
-    href="https://github.com/Lmedeiros-leiman/BirdSanctuary"
+    href="https://github.com/Frytura-dev/BirdSanctuary"
     target="_blank"
     rel="noreferrer"
   >
