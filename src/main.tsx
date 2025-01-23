@@ -122,7 +122,7 @@ createRoot(document.getElementById("root")!).render(
   </div>
 </main>
     {/* Footer */}
-<footer className="w-full flex justify-end px-6 py-3 border-t dark:border-blue-800 border-blue-300 bg-white dark:bg-black">
+<footer className="w-full flex justify-end px-6 py-3 border-b dark:border-blue-800 border-blue-300 bg-white dark:bg-black">
   <div
     onClick={() => {
       window.scrollTo(0, 0);
